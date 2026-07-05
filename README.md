@@ -154,6 +154,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Attack Surface
 
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
+- [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning
 - [BinaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
 - [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
