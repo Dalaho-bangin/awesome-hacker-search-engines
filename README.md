@@ -282,6 +282,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Tenant Domain Finder](https://domains.ourcloudnetwork.com/) - Find All Domains in a Microsoft 365 Tenant
 - [NetCraft SearchDNS](https://searchdns.netcraft.com/) - Search Web by Domain
 - [SpoofChecker](https://spoofchecker.com/) - Spoof Checker detects typosquats and spoofed domains to protect your brand from phishing, fraud, and BEC scams
+- [Cerast Intelligence](https://search.cerast-intelligence.com/) - Search a domain for exposed paths and misconfigurations found by continuous internet-wide scanning
 
 ### URLs
 
