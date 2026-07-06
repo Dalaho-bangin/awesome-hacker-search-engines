@@ -154,7 +154,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 ### Attack Surface
 
 - [FullHunt.io](https://fullhunt.io/) - Attack surface database of the entire Internet
-- [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning
 - [BinaryEdge](https://www.binaryedge.io/) - We scan the web and gather data for you
 - [Censys ASM](https://censys.io/) - Attack Surface Management Solutions
 - [RedHunt Labs](https://redhuntlabs.com/) - Discover your Attack Surface, Continuously
@@ -283,6 +282,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Tenant Domain Finder](https://domains.ourcloudnetwork.com/) - Find All Domains in a Microsoft 365 Tenant
 - [NetCraft SearchDNS](https://searchdns.netcraft.com/) - Search Web by Domain
 - [SpoofChecker](https://spoofchecker.com/) - Spoof Checker detects typosquats and spoofed domains to protect your brand from phishing, fraud, and BEC scams
+- [Cerast Intelligence](https://search.cerast-intelligence.com/) - Search a domain for exposed paths and misconfigurations found by continuous internet-wide scanning
 
 ### URLs
 
