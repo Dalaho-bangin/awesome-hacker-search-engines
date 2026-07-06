@@ -422,7 +422,6 @@ These can be useful for osint and social engineering.
 - [Instagram](https://www.instagram.com/)
 - [YouTube](https://www.youtube.com/)
 - [Twitter/X](https://twitter.com/)
-- [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords, and use REST or MCP workflows for X data.
 - [LinkedIn](https://www.linkedin.com/)
 - [Reddit](https://new.reddit.com/)
 - [Pinterest](https://www.pinterest.com/)
@@ -660,6 +659,7 @@ These can be useful for osint and social engineering.
 - [Whatsmyname](https://whatsmyname.app/) - OSINT tool designed for enumerating usernames across a wide array of websites
 - [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
 - [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
+- [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords, and use REST or MCP workflows for X data
 - [TheOrg](https://theorg.com/) - World's biggest network of public org charts
 
 ### Vehicle
