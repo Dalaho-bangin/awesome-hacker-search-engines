@@ -178,6 +178,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
 - [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
 - [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leaks test and many others
+- [lookup.disclose.io](https://lookup.disclose.io/) - Find who owns any internet asset and the right security & disclosure contact
 
 ### Code
 
@@ -282,6 +283,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Tenant Domain Finder](https://domains.ourcloudnetwork.com/) - Find All Domains in a Microsoft 365 Tenant
 - [NetCraft SearchDNS](https://searchdns.netcraft.com/) - Search Web by Domain
 - [SpoofChecker](https://spoofchecker.com/) - Spoof Checker detects typosquats and spoofed domains to protect your brand from phishing, fraud, and BEC scams
+- [Cerast Intelligence](https://search.cerast-intelligence.com/) - Search a domain for exposed paths and misconfigurations found by continuous internet-wide scanning
 
 ### URLs
 
@@ -660,6 +662,8 @@ These can be useful for osint and social engineering.
 - [Namecheckr](https://www.namecheckr.com/) - Social and Domain Name Availability Search For Brand Professionals
 - [Username Search](https://www.user-searcher.com/) - Free online tool to conduct reverse username search across various social media platforms, online dating sites, forums, and communities simply by providing a username
 - [TheOrg](https://theorg.com/) - World's biggest network of public org charts
+- [Xquik](https://xquik.com/) - Search public X posts, inspect public profiles, monitor keywords and use REST or MCP workflows for X data
+- [Sherlock Search](https://www.sherlocksearch.com/) - Upload one photo and Sherlock finds where that face appears across 9+ social platforms and public records
 
 ### Vehicle
 
